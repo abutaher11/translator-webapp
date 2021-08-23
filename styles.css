@@ -32,6 +32,7 @@ textarea {
     display: block;
     margin: 1rem;
     padding: 1rem;
+    text-align: center;
 }
 
 #btn-translate {
@@ -41,6 +42,7 @@ textarea {
     font-size: 1.3rem;
     border-radius: .3rem;
     letter-spacing: 1px;
+    background-color: #F1B714;
 }
 
 #translateout{
@@ -62,7 +64,7 @@ textarea {
 .footer {
     width: auto;
     background-color: #F1B714;
-    height: 7rem;
+    height: 6rem;
     margin: auto 0rem;
     padding: 1.5rem 2rem;
 }
