@@ -13,7 +13,7 @@ body{
     margin: 0px;
 }
 
-.heading {
+.buffer {
     height: 7rem;
     background-color: #F1B714;
     
@@ -70,17 +70,11 @@ textarea {
 }
 
 /* footer */
-.footer {
-    width: auto;
-    background-color: #F1B714;
-    height: 6rem;
-    margin: auto 0rem;
-    padding: 1.5rem 2rem;
-}
 
 .footer-text {
     width: auto;
     margin: 1rem 1rem;
     font-size: auto;
     text-align: center;
+    padding: 1.5rem 2rem;
 }
