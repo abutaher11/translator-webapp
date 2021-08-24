@@ -76,6 +76,6 @@ textarea {
     margin: 1rem 1rem;
     font-size: auto;
     text-align: center;
-    padding: 1.5rem 2rem;
+    padding-top: 1.5rem;
     max-height: 7rem;
 }
