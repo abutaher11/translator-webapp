@@ -73,9 +73,10 @@ textarea {
 
 .footer-text {
     width: auto;
-    margin: 1rem 1rem;
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
     font-size: auto;
     text-align: center;
     padding-top: 1.5rem;
-    max-height: 7rem;
+    
 }
